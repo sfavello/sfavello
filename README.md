@@ -1,6 +1,6 @@
  ### 🛸 Hi, I’m Sylvia Favello (@sfavello) 
-
-![Hello](https://user-images.githubusercontent.com/90116354/179369228-9ade946b-cb75-4ef8-b7ef-797e213a75ad.png)
+ 
+![Hello (1)](https://user-images.githubusercontent.com/90116354/179418394-0121e269-4808-4a39-b473-3bd684f1cbfe.png)
 
 <p align="center">
 <bold>Nice to virtually meet you! I am based out in Southern California. I love am extremely passionate about creating content and experiences that truly
