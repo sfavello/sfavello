@@ -3,8 +3,7 @@
 ![Hello (1)](https://user-images.githubusercontent.com/90116354/179418394-0121e269-4808-4a39-b473-3bd684f1cbfe.png)
 
 <p align="center">
-<bold>Nice to virtually meet you! I am based out in Southern California. I love am extremely passionate about creating content and experiences that truly
-makes other users and or developers lives easier. I strive to constantly learn and to become a better software engineer to achieve my goals. </bold>
+<bold>Hello and welcome to my GitHub! My name is Sylvialynn, and I am a software developer passionate about building innovative solutions to complex problems. I am based out in Southern California. A motto I try to follow is “The more that you read, the more things you will know. The more that you learn, the more places you'll go.” - Dr. Seuss. Nice to virtually meet you! </bold>
 </p>
 
 
@@ -16,6 +15,7 @@ makes other users and or developers lives easier. I strive to constantly learn a
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
 <img alt="React-testing-library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
